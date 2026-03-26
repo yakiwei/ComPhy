@@ -1,0 +1,7 @@
+numpy
+mph
+phreeqc
+os
+sys
+shutil
+time

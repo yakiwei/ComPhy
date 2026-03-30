@@ -1,5 +1,5 @@
 A fully Python-based, modular and reproducible framework for reactive transport modeling in Soil and Groundwater
-ComPhy: Coupled COMSOL-PHREEQC in PythonComPhy is a modular, reproducible Python-based framework designed for fully coupled reactive transport modeling (RTM) in soil and groundwater systems.
+ComPhy: Coupled COMSOL-PHREEQC in Python. ComPhy is a modular, reproducible Python-based framework designed for fully coupled reactive transport modeling (RTM) in soil and groundwater systems.
 By integrating the multiphysics capabilities of COMSOL with the geochemical precision of PHREEQC, this framework allows for automated, bidirectional data exchange at each time-step. Unlike its predecessor, ComPhy is entirely independent of the MATLAB environment, offering a more accessible and streamlined workflow for the scientific community.
 
 🚀 Key FeaturesPython-Native: Complete independence from MATLAB, improving portability and reducing licensing hurdles.

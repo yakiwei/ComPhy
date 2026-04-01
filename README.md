@@ -1,6 +1,6 @@
 A fully Python-based, modular and reproducible framework for reactive transport modeling in Soil and Groundwater
-CoPhy: Coupled COMSOL-PHREEQC in Python. CoPhy is a modular, reproducible Python-based framework designed for fully coupled reactive transport modeling (RTM) in soil and groundwater systems.
-By integrating the multiphysics capabilities of COMSOL with the geochemical precision of PHREEQC, this framework allows for automated, bidirectional data exchange at each time-step. Unlike its predecessor, CoPhy is entirely independent of the MATLAB environment, offering a more accessible and streamlined workflow for the scientific community.
+CoPhy: Coupled COMSOL-PHREEQC in Python. CoPhree is a modular, reproducible Python-based framework designed for fully coupled reactive transport modeling (RTM) in soil and groundwater systems.
+By integrating the multiphysics capabilities of COMSOL with the geochemical precision of PHREEQC, this framework allows for automated, bidirectional data exchange at each time-step. Unlike its predecessor, CoPhree is entirely independent of the MATLAB environment, offering a more accessible and streamlined workflow for the scientific community.
 
 🚀 Key FeaturesPython-Native: Complete independence from MATLAB, improving portability and reducing licensing hurdles.
 Modular Architecture: Functional components are decoupled, allowing users to easily swap or extend geochemical modules or physical solvers.
@@ -27,7 +27,7 @@ CoPhy_Project/
 └── README.md
 
 📋 Prerequisites
-To run CoPhy, you will need:
+To run CoPhree, you will need:
 Python 3.8+
 COMSOL Multiphysics 6.0+ (with MPH interface/API enabled)
 RAM: 16 GB recommended.
